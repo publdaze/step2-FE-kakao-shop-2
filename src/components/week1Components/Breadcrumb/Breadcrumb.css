@@ -1,0 +1,17 @@
+.breadcrumb {
+  background-color: lavender;
+  padding: 4px 6px;
+  border-radius: 5px;
+  font-size: small;
+  color: dimgrey;
+}
+.item {
+  all: unset;
+  margin: 0 5px;
+}
+.item:hover {
+  text-decoration: underline;
+}
+.item:last-child {
+  color: indigo;
+}
